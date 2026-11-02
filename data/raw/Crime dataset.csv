@@ -1,0 +1,2084 @@
+crime_category,month,year,case_count
+Murder,1,2017,13
+Att.to.C.Murder,1,2017,19
+Dacoity,1,2017,1
+Robbery (Excluding Chain Snatching),1,2017,74
+Robbery -Chain Snatching,1,2017,14
+Extortion,1,2017,9
+H.B.T.Day / Night,1,2017,214
+Thefts,1,2017,586
+M.V.Thefts.,1,2017,272
+Hurt,1,2017,380
+Riots.,1,2017,34
+Rape,1,2017,35
+Molestaion,1,2017,193
+Other I.P.C.,1,2017,1289
+Murder,2,2017,11
+Att.to.C.Murder,2,2017,6
+Dacoity,2,2017,1
+Robbery (Excluding Chain Snatching),2,2017,43
+Robbery -Chain Snatching,2,2017,7
+Extortion,2,2017,5
+H.B.T.Day / Night,2,2017,171
+Thefts,2,2017,470
+M.V.Thefts.,2,2017,222
+Hurt,2,2017,337
+Riots.,2,2017,30
+Rape,2,2017,43
+Molestaion,2,2017,171
+Other I.P.C.,2,2017,1097
+Murder,3,2017,11
+Att.to.C.Murder,3,2017,22
+Dacoity,3,2017,2
+Robbery (Excluding Chain Snatching),3,2017,77
+Robbery -Chain Snatching,3,2017,16
+Extortion,3,2017,21
+H.B.T.Day / Night,3,2017,197
+Thefts,3,2017,607
+M.V.Thefts.,3,2017,225
+Hurt,3,2017,448
+Riots.,3,2017,44
+Rape,3,2017,72
+Molestaion,3,2017,208
+Other I.P.C.,3,2017,1405
+Murder,4,2017,9
+Att.to.C.Murder,4,2017,16
+Dacoity,4,2017,5
+Robbery (Excluding Chain Snatching),4,2017,63
+Robbery -Chain Snatching,4,2017,16
+Extortion,4,2017,12
+H.B.T.Day / Night,4,2017,182
+Thefts,4,2017,566
+M.V.Thefts.,4,2017,223
+Hurt,4,2017,379
+Riots.,4,2017,33
+Rape,4,2017,63
+Molestaion,4,2017,138
+Other I.P.C.,4,2017,1385
+Murder,5,2017,12
+Att.to.C.Murder,5,2017,15
+Dacoity,5,2017,2
+Robbery (Excluding Chain Snatching),5,2017,86
+Robbery -Chain Snatching,5,2017,18
+Extortion,5,2017,16
+H.B.T.Day / Night,5,2017,202
+Thefts,5,2017,523
+M.V.Thefts.,5,2017,235
+Hurt,5,2017,415
+Riots.,5,2017,34
+Rape,5,2017,62
+Molestaion,5,2017,184
+Other I.P.C.,5,2017,1319
+Murder,6,2017,13
+Att.to.C.Murder,6,2017,24
+Dacoity,6,2017,2
+Robbery (Excluding Chain Snatching),6,2017,70
+Robbery -Chain Snatching,6,2017,14
+Extortion,6,2017,13
+H.B.T.Day / Night,6,2017,157
+Thefts,6,2017,507
+M.V.Thefts.,6,2017,272
+Hurt,6,2017,401
+Riots.,6,2017,42
+Rape,6,2017,60
+Molestaion,6,2017,169
+Other I.P.C.,6,2017,1241
+Murder,7,2017,10
+Att.to.C.Murder,7,2017,16
+Dacoity,7,2017,4
+Robbery (Excluding Chain Snatching),7,2017,68
+Robbery -Chain Snatching,7,2017,15
+Extortion,7,2017,21
+H.B.T.Day / Night,7,2017,207
+Thefts,7,2017,561
+M.V.Thefts.,7,2017,222
+Hurt,7,2017,342
+Riots.,7,2017,43
+Rape,7,2017,72
+Molestaion,7,2017,194
+Other I.P.C.,7,2017,1401
+Murder,8,2017,7
+Att.to.C.Murder,8,2017,8
+Dacoity,8,2017,3
+Robbery (Excluding Chain Snatching),8,2017,70
+Robbery -Chain Snatching,8,2017,23
+Extortion,8,2017,21
+H.B.T.Day / Night,8,2017,206
+Thefts,8,2017,527
+M.V.Thefts.,8,2017,245
+Hurt,8,2017,331
+Riots.,8,2017,29
+Rape,8,2017,65
+Molestaion,8,2017,188
+Other I.P.C.,8,2017,1420
+Murder,9,2017,12
+Att.to.C.Murder,9,2017,21
+Dacoity,9,2017,3
+Robbery (Excluding Chain Snatching),9,2017,82
+Robbery -Chain Snatching,9,2017,13
+Extortion,9,2017,17
+H.B.T.Day / Night,9,2017,240
+Thefts,9,2017,585
+M.V.Thefts.,9,2017,244
+Hurt,9,2017,403
+Riots.,9,2017,26
+Rape,9,2017,53
+Molestaion,9,2017,164
+Other I.P.C.,9,2017,1656
+Murder,10,2017,12
+Att.to.C.Murder,10,2017,24
+Dacoity,10,2017,1
+Robbery (Excluding Chain Snatching),10,2017,69
+Robbery -Chain Snatching,10,2017,16
+Extortion,10,2017,20
+H.B.T.Day / Night,10,2017,224
+Thefts,10,2017,571
+M.V.Thefts.,10,2017,247
+Hurt,10,2017,489
+Riots.,10,2017,40
+Rape,10,2017,63
+Molestaion,10,2017,205
+Other I.P.C.,10,2017,1804
+Murder,11,2017,10
+Att.to.C.Murder,11,2017,12
+Dacoity,11,2017,3
+Robbery (Excluding Chain Snatching),11,2017,64
+Robbery -Chain Snatching,11,2017,5
+Extortion,11,2017,19
+H.B.T.Day / Night,11,2017,203
+Thefts,11,2017,558
+M.V.Thefts.,11,2017,229
+Hurt,11,2017,403
+Riots.,11,2017,48
+Rape,11,2017,92
+Molestaion,11,2017,232
+Other I.P.C.,11,2017,1821
+Murder,12,2017,7
+Att.to.C.Murder,12,2017,16
+Dacoity,12,2017,4
+Robbery (Excluding Chain Snatching),12,2017,84
+Robbery -Chain Snatching,12,2017,12
+Extortion,12,2017,21
+H.B.T.Day / Night,12,2017,205
+Thefts,12,2017,643
+M.V.Thefts.,12,2017,376
+Hurt,12,2017,377
+Riots.,12,2017,38
+Rape,12,2017,57
+Molestaion,12,2017,224
+Other I.P.C.,12,2017,2186
+Murder,1,2018,10
+Att.to.C.Murder,1,2018,23
+Dacoity,1,2018,1
+Robbery (Excluding Chain Snatching),1,2018,88
+Robbery -Chain Snatching,1,2018,10
+Extortion,1,2018,20
+H.B.T.Day / Night,1,2018,220
+Thefts,1,2018,539
+M.V.Thefts.,1,2018,344
+Hurt,1,2018,481
+Riots.,1,2018,101
+Rape,1,2018,64
+Molestaion,1,2018,240
+Other I.P.C.,1,2018,1484
+Murder,2,2018,7
+Att.to.C.Murder,2,2018,20
+Dacoity,2,2018,2
+Robbery (Excluding Chain Snatching),2,2018,79
+Robbery -Chain Snatching,2,2018,10
+Extortion,2,2018,21
+H.B.T.Day / Night,2,2018,181
+Thefts,2,2018,530
+M.V.Thefts.,2,2018,295
+Hurt,2,2018,385
+Riots.,2,2018,46
+Rape,2,2018,57
+Molestaion,2,2018,207
+Other I.P.C.,2,2018,1377
+Murder,3,2018,12
+Att.to.C.Murder,3,2018,20
+Dacoity,3,2018,6
+Robbery (Excluding Chain Snatching),3,2018,90
+Robbery -Chain Snatching,3,2018,11
+Extortion,3,2018,23
+H.B.T.Day / Night,3,2018,197
+Thefts,3,2018,548
+M.V.Thefts.,3,2018,301
+Hurt,3,2018,501
+Riots.,3,2018,53
+Rape,3,2018,67
+Molestaion,3,2018,236
+Other I.P.C.,3,2018,1525
+Murder,4,2018,16
+Att.to.C.Murder,4,2018,23
+Dacoity,4,2018,3
+Robbery (Excluding Chain Snatching),4,2018,48
+Robbery -Chain Snatching,4,2018,3
+Extortion,4,2018,10
+H.B.T.Day / Night,4,2018,41
+Thefts,4,2018,110
+M.V.Thefts.,4,2018,33
+Hurt,4,2018,319
+Riots.,4,2018,21
+Rape,4,2018,57
+Molestaion,4,2018,165
+Other I.P.C.,4,2018,679
+Murder,5,2018,14
+Att.to.C.Murder,5,2018,16
+Dacoity,5,2018,3
+Robbery (Excluding Chain Snatching),5,2018,43
+Robbery -Chain Snatching,5,2018,4
+Extortion,5,2018,9
+H.B.T.Day / Night,5,2018,34
+Thefts,5,2018,115
+M.V.Thefts.,5,2018,53
+Hurt,5,2018,320
+Riots.,5,2018,29
+Rape,5,2018,45
+Molestaion,5,2018,136
+Other I.P.C.,5,2018,646
+Murder,6,2018,18
+Att.to.C.Murder,6,2018,21
+Dacoity,6,2018,1
+Robbery (Excluding Chain Snatching),6,2018,55
+Robbery -Chain Snatching,6,2018,2
+Extortion,6,2018,12
+H.B.T.Day / Night,6,2018,31
+Thefts,6,2018,112
+M.V.Thefts.,6,2018,25
+Hurt,6,2018,302
+Riots.,6,2018,25
+Rape,6,2018,37
+Molestaion,6,2018,108
+Other I.P.C.,6,2018,609
+Murder,7,2018,11
+Att.to.C.Murder,7,2018,13
+Dacoity,7,2018,2
+Robbery (Excluding Chain Snatching),7,2018,60
+Robbery -Chain Snatching,7,2018,4
+Extortion,7,2018,10
+H.B.T.Day / Night,7,2018,46
+Thefts,7,2018,136
+M.V.Thefts.,7,2018,34
+Hurt,7,2018,291
+Riots.,7,2018,21
+Rape,7,2018,62
+Molestaion,7,2018,114
+Other I.P.C.,7,2018,746
+Murder,8,2018,9
+Att.to.C.Murder,8,2018,27
+Dacoity,8,2018,2
+Robbery (Excluding Chain Snatching),8,2018,69
+Robbery -Chain Snatching,8,2018,7
+Extortion,8,2018,20
+H.B.T.Day / Night,8,2018,52
+Thefts,8,2018,126
+M.V.Thefts.,8,2018,37
+Hurt,8,2018,277
+Riots.,8,2018,38
+Rape,8,2018,51
+Molestaion,8,2018,137
+Other I.P.C.,8,2018,822
+Murder,9,2018,16
+Att.to.C.Murder,9,2018,19
+Dacoity,9,2018,1
+Robbery (Excluding Chain Snatching),9,2018,62
+Robbery -Chain Snatching,9,2018,6
+Extortion,9,2018,11
+H.B.T.Day / Night,9,2018,57
+Thefts,9,2018,113
+M.V.Thefts.,9,2018,47
+Hurt,9,2018,350
+Riots.,9,2018,34
+Rape,9,2018,42
+Molestaion,9,2018,164
+Other I.P.C.,9,2018,652
+Murder,10,2018,13
+Att.to.C.Murder,10,2018,28
+Dacoity,10,2018,2
+Robbery (Excluding Chain Snatching),10,2018,66
+Robbery -Chain Snatching,10,2018,9
+Extortion,10,2018,15
+H.B.T.Day / Night,10,2018,54
+Thefts,10,2018,119
+M.V.Thefts.,10,2018,49
+Hurt,10,2018,398
+Riots.,10,2018,36
+Rape,10,2018,51
+Molestaion,10,2018,193
+Other I.P.C.,10,2018,1319
+Murder,11,2018,8
+Att.to.C.Murder,11,2018,26
+Dacoity,11,2018,1
+Robbery (Excluding Chain Snatching),11,2018,61
+Robbery -Chain Snatching,11,2018,8
+Extortion,11,2018,18
+H.B.T.Day / Night,11,2018,49
+Thefts,11,2018,116
+M.V.Thefts.,11,2018,35
+Hurt,11,2018,358
+Riots.,11,2018,22
+Rape,11,2018,53
+Molestaion,11,2018,141
+Other I.P.C.,11,2018,1601
+Murder,12,2018,11
+Att.to.C.Murder,12,2018,26
+Dacoity,12,2018,2
+Robbery (Excluding Chain Snatching),12,2018,48
+Robbery -Chain Snatching,12,2018,7
+Extortion,12,2018,12
+H.B.T.Day / Night,12,2018,38
+Thefts,12,2018,126
+M.V.Thefts.,12,2018,41
+Hurt,12,2018,249
+Riots.,12,2018,13
+Rape,12,2018,49
+Molestaion,12,2018,129
+Other I.P.C.,12,2018,2271
+Murder,1,2019,8
+Att.to.C.Murder,1,2019,27
+Dacoity,1,2019,3
+Robbery (Excluding Chain Snatching),1,2019,77
+Robbery -Chain Snatching,1,2019,5
+Extortion,1,2019,15
+H.B.T.Day / Night,1,2019,54
+Thefts,1,2019,140
+M.V.Thefts.,1,2019,43
+Hurt,1,2019,276
+Riots.,1,2019,26
+Rape,1,2019,55
+Molestaion,1,2019,153
+Other I.P.C.,1,2019,1265
+Murder,2,2019,9
+Att.to.C.Murder,2,2019,23
+Dacoity,2,2019,0
+Robbery (Excluding Chain Snatching),2,2019,63
+Robbery -Chain Snatching,2,2019,4
+Extortion,2,2019,11
+H.B.T.Day / Night,2,2019,35
+Thefts,2,2019,128
+M.V.Thefts.,2,2019,52
+Hurt,2,2019,307
+Riots.,2,2019,29
+Rape,2,2019,50
+Molestaion,2,2019,151
+Other I.P.C.,2,2019,961
+Murder,3,2019,13
+Att.to.C.Murder,3,2019,21
+Dacoity,3,2019,0
+Robbery (Excluding Chain Snatching),3,2019,72
+Robbery -Chain Snatching,3,2019,5
+Extortion,3,2019,6
+H.B.T.Day / Night,3,2019,48
+Thefts,3,2019,120
+M.V.Thefts.,3,2019,45
+Hurt,3,2019,318
+Riots.,3,2019,30
+Rape,3,2019,47
+Molestaion,3,2019,171
+Other I.P.C.,3,2019,932
+Murder,4,2019,19
+Att.to.C.Murder,4,2019,25
+Dacoity,4,2019,1
+Robbery (Excluding Chain Snatching),4,2019,54
+Robbery -Chain Snatching,4,2019,6
+Extortion,4,2019,14
+H.B.T.Day / Night,4,2019,35
+Thefts,4,2019,90
+M.V.Thefts.,4,2019,38
+Hurt,4,2019,271
+Riots.,4,2019,20
+Rape,4,2019,64
+Molestaion,4,2019,146
+Other I.P.C.,4,2019,712
+Murder,5,2019,8
+Att.to.C.Murder,5,2019,19
+Dacoity,5,2019,2
+Robbery (Excluding Chain Snatching),5,2019,42
+Robbery -Chain Snatching,5,2019,3
+Extortion,5,2019,9
+H.B.T.Day / Night,5,2019,37
+Thefts,5,2019,117
+M.V.Thefts.,5,2019,29
+Hurt,5,2019,300
+Riots.,5,2019,25
+Rape,5,2019,63
+Molestaion,5,2019,139
+Other I.P.C.,5,2019,702
+Murder,6,2019,13
+Att.to.C.Murder,6,2019,24
+Dacoity,6,2019,1
+Robbery (Excluding Chain Snatching),6,2019,63
+Robbery -Chain Snatching,6,2019,8
+Extortion,6,2019,11
+H.B.T.Day / Night,6,2019,52
+Thefts,6,2019,102
+M.V.Thefts.,6,2019,47
+Hurt,6,2019,323
+Riots.,6,2019,32
+Rape,6,2019,63
+Molestaion,6,2019,153
+Other I.P.C.,6,2019,1054
+Murder,7,2019,14
+Att.to.C.Murder,7,2019,36
+Dacoity,7,2019,0
+Robbery (Excluding Chain Snatching),7,2019,81
+Robbery -Chain Snatching,7,2019,5
+Extortion,7,2019,22
+H.B.T.Day / Night,7,2019,38
+Thefts,7,2019,121
+M.V.Thefts.,7,2019,36
+Hurt,7,2019,233
+Riots.,7,2019,14
+Rape,7,2019,42
+Molestaion,7,2019,143
+Other I.P.C.,7,2019,1099
+Murder,8,2019,13
+Att.to.C.Murder,8,2019,19
+Dacoity,8,2019,2
+Robbery (Excluding Chain Snatching),8,2019,88
+Robbery -Chain Snatching,8,2019,11
+Extortion,8,2019,18
+H.B.T.Day / Night,8,2019,53
+Thefts,8,2019,126
+M.V.Thefts.,8,2019,45
+Hurt,8,2019,247
+Riots.,8,2019,9
+Rape,8,2019,53
+Molestaion,8,2019,161
+Other I.P.C.,8,2019,938
+Murder,9,2019,11
+Att.to.C.Murder,9,2019,30
+Dacoity,9,2019,0
+Robbery (Excluding Chain Snatching),9,2019,54
+Robbery -Chain Snatching,9,2019,2
+Extortion,9,2019,15
+H.B.T.Day / Night,9,2019,35
+Thefts,9,2019,115
+M.V.Thefts.,9,2019,60
+Hurt,9,2019,235
+Riots.,9,2019,27
+Rape,9,2019,50
+Molestaion,9,2019,138
+Other I.P.C.,9,2019,721
+Murder,10,2019,12
+Att.to.C.Murder,10,2019,34
+Dacoity,10,2019,1
+Robbery (Excluding Chain Snatching),10,2019,64
+Robbery -Chain Snatching,10,2019,1
+Extortion,10,2019,11
+H.B.T.Day / Night,10,2019,42
+Thefts,10,2019,95
+M.V.Thefts.,10,2019,39
+Hurt,10,2019,274
+Riots.,10,2019,24
+Rape,10,2019,47
+Molestaion,10,2019,131
+Other I.P.C.,10,2019,678
+Murder,11,2019,10
+Att.to.C.Murder,11,2019,24
+Dacoity,11,2019,3
+Robbery (Excluding Chain Snatching),11,2019,66
+Robbery -Chain Snatching,11,2019,6
+Extortion,11,2019,19
+H.B.T.Day / Night,11,2019,59
+Thefts,11,2019,96
+M.V.Thefts.,11,2019,39
+Hurt,11,2019,279
+Riots.,11,2019,15
+Rape,11,2019,48
+Molestaion,11,2019,156
+Other I.P.C.,11,2019,865
+Murder,12,2019,13
+Att.to.C.Murder,12,2019,34
+Dacoity,12,2019,3
+Robbery (Excluding Chain Snatching),12,2019,66
+Robbery -Chain Snatching,12,2019,9
+Extortion,12,2019,24
+H.B.T.Day / Night,12,2019,33
+Thefts,12,2019,138
+M.V.Thefts.,12,2019,49
+Hurt,12,2019,270
+Riots.,12,2019,25
+Rape,12,2019,68
+Molestaion,12,2019,206
+Other I.P.C.,12,2019,2683
+Murder,1,2020,7
+Att.to.C.Murder,1,2020,31
+Dacoity,1,2020,1
+Robbery (Excluding Chain Snatching),1,2020,74
+Robbery -Chain Snatching,1,2020,5
+Extortion,1,2020,19
+H.B.T.Day / Night,1,2020,67
+Thefts,1,2020,156
+M.V.Thefts.,1,2020,63
+Hurt,1,2020,297
+Riots.,1,2020,15
+Rape,1,2020,60
+Molestaion,1,2020,172
+Other I.P.C.,1,2020,988
+Murder,2,2020,18
+Att.to.C.Murder,2,2020,28
+Dacoity,2,2020,1
+Robbery (Excluding Chain Snatching),2,2020,59
+Robbery -Chain Snatching,2,2020,11
+Extortion,2,2020,31
+H.B.T.Day / Night,2,2020,46
+Thefts,2,2020,102
+M.V.Thefts.,2,2020,46
+Hurt,2,2020,300
+Riots.,2,2020,17
+Rape,2,2020,53
+Molestaion,2,2020,179
+Other I.P.C.,2,2020,1073
+Murder,3,2020,10
+Att.to.C.Murder,3,2020,25
+Dacoity,3,2020,0
+Robbery (Excluding Chain Snatching),3,2020,47
+Robbery -Chain Snatching,3,2020,9
+Extortion,3,2020,9
+H.B.T.Day / Night,3,2020,33
+Thefts,3,2020,81
+M.V.Thefts.,3,2020,35
+Hurt,3,2020,234
+Riots.,3,2020,28
+Rape,3,2020,58
+Molestaion,3,2020,161
+Other I.P.C.,3,2020,1731
+Murder,4,2020,7
+Att.to.C.Murder,4,2020,8
+Dacoity,4,2020,0
+Robbery (Excluding Chain Snatching),4,2020,12
+Robbery -Chain Snatching,4,2020,0
+Extortion,4,2020,4
+H.B.T.Day / Night,4,2020,20
+Thefts,4,2020,2
+M.V.Thefts.,4,2020,7
+Hurt,4,2020,74
+Riots.,4,2020,6
+Rape,4,2020,6
+Molestaion,4,2020,12
+Other I.P.C.,4,2020,4955
+Murder,5,2020,10
+Att.to.C.Murder,5,2020,17
+Dacoity,5,2020,1
+Robbery (Excluding Chain Snatching),5,2020,3
+Robbery -Chain Snatching,5,2020,2
+Extortion,5,2020,2
+H.B.T.Day / Night,5,2020,9
+Thefts,5,2020,7
+M.V.Thefts.,5,2020,3
+Hurt,5,2020,110
+Riots.,5,2020,15
+Rape,5,2020,12
+Molestaion,5,2020,26
+Other I.P.C.,5,2020,1611
+Murder,6,2020,12
+Att.to.C.Murder,6,2020,29
+Dacoity,6,2020,0
+Robbery (Excluding Chain Snatching),6,2020,15
+Robbery -Chain Snatching,6,2020,2
+Extortion,6,2020,6
+H.B.T.Day / Night,6,2020,26
+Thefts,6,2020,25
+M.V.Thefts.,6,2020,31
+Hurt,6,2020,189
+Riots.,6,2020,2
+Rape,6,2020,26
+Molestaion,6,2020,49
+Other I.P.C.,6,2020,4385
+Murder,7,2020,10
+Att.to.C.Murder,7,2020,13
+Dacoity,7,2020,2
+Robbery (Excluding Chain Snatching),7,2020,23
+Robbery -Chain Snatching,7,2020,1
+Extortion,7,2020,6
+H.B.T.Day / Night,7,2020,47
+Thefts,7,2020,40
+M.V.Thefts.,7,2020,37
+Hurt,7,2020,157
+Riots.,7,2020,16
+Rape,7,2020,38
+Molestaion,7,2020,43
+Other I.P.C.,7,2020,7211
+Murder,8,2020,9
+Att.to.C.Murder,8,2020,24
+Dacoity,8,2020,1
+Robbery (Excluding Chain Snatching),8,2020,41
+Robbery -Chain Snatching,8,2020,2
+Extortion,8,2020,9
+H.B.T.Day / Night,8,2020,53
+Thefts,8,2020,79
+M.V.Thefts.,8,2020,36
+Hurt,8,2020,171
+Riots.,8,2020,12
+Rape,8,2020,34
+Molestaion,8,2020,84
+Other I.P.C.,8,2020,1677
+Murder,9,2020,14
+Att.to.C.Murder,9,2020,21
+Dacoity,9,2020,1
+Robbery (Excluding Chain Snatching),9,2020,39
+Robbery -Chain Snatching,9,2020,7
+Extortion,9,2020,10
+H.B.T.Day / Night,9,2020,52
+Thefts,9,2020,77
+M.V.Thefts.,9,2020,49
+Hurt,9,2020,242
+Riots.,9,2020,17
+Rape,9,2020,55
+Molestaion,9,2020,129
+Other I.P.C.,9,2020,1459
+Murder,10,2020,15
+Att.to.C.Murder,10,2020,51
+Dacoity,10,2020,2
+Robbery (Excluding Chain Snatching),10,2020,46
+Robbery -Chain Snatching,10,2020,7
+Extortion,10,2020,18
+H.B.T.Day / Night,10,2020,42
+Thefts,10,2020,100
+M.V.Thefts.,10,2020,59
+Hurt,10,2020,315
+Riots.,10,2020,26
+Rape,10,2020,61
+Molestaion,10,2020,159
+Other I.P.C.,10,2020,1394
+Murder,11,2020,11
+Att.to.C.Murder,11,2020,33
+Dacoity,11,2020,0
+Robbery (Excluding Chain Snatching),11,2020,60
+Robbery -Chain Snatching,11,2020,9
+Extortion,11,2020,20
+H.B.T.Day / Night,11,2020,37
+Thefts,11,2020,82
+M.V.Thefts.,11,2020,59
+Hurt,11,2020,319
+Riots.,11,2020,29
+Rape,11,2020,42
+Molestaion,11,2020,158
+Other I.P.C.,11,2020,863
+Murder,12,2020,10
+Att.to.C.Murder,12,2020,23
+Dacoity,12,2020,1
+Robbery (Excluding Chain Snatching),12,2020,42
+Robbery -Chain Snatching,12,2020,3
+Extortion,12,2020,20
+H.B.T.Day / Night,12,2020,45
+Thefts,12,2020,86
+M.V.Thefts.,12,2020,53
+Hurt,12,2020,263
+Riots.,12,2020,20
+Rape,12,2020,45
+Molestaion,12,2020,118
+Other I.P.C.,12,2020,1130
+Murder,1,2021,12
+Att.to.C.Murder,1,2021,34
+Dacoity,1,2021,1
+Robbery (Excluding Chain Snatching),1,2021,65
+Robbery -Chain Snatching,1,2021,4
+Extortion,1,2021,20
+H.B.T.Day / Night,1,2021,53
+Thefts,1,2021,125
+M.V.Thefts.,1,2021,59
+Hurt,1,2021,268
+Riots.,1,2021,15
+Rape,1,2021,49
+Molestaion,1,2021,125
+Other I.P.C.,1,2021,745
+Murder,2,2021,14
+Att.to.C.Murder,2,2021,26
+Dacoity,2,2021,1
+Robbery (Excluding Chain Snatching),2,2021,52
+Robbery -Chain Snatching,2,2021,2
+Extortion,2,2021,27
+H.B.T.Day / Night,2,2021,50
+Thefts,2,2021,95
+M.V.Thefts.,2,2021,50
+Hurt,2,2021,287
+Riots.,2,2021,12
+Rape,2,2021,52
+Molestaion,2,2021,101
+Other I.P.C.,2,2021,883
+Murder,3,2021,15
+Att.to.C.Murder,3,2021,34
+Dacoity,3,2021,2
+Robbery (Excluding Chain Snatching),3,2021,66
+Robbery -Chain Snatching,3,2021,14
+Extortion,3,2021,25
+H.B.T.Day / Night,3,2021,115
+Thefts,3,2021,366
+M.V.Thefts.,3,2021,329
+Hurt,3,2021,435
+Riots.,3,2021,27
+Rape,3,2021,70
+Molestaion,3,2021,201
+Other I.P.C.,3,2021,2308
+Murder,3,2021,14
+Att.to.C.Murder,3,2021,32
+Dacoity,3,2021,1
+Robbery (Excluding Chain Snatching),3,2021,54
+Robbery -Chain Snatching,3,2021,7
+Extortion,3,2021,14
+H.B.T.Day / Night,3,2021,28
+Thefts,3,2021,104
+M.V.Thefts.,3,2021,78
+Hurt,3,2021,340
+Riots.,3,2021,19
+Rape,3,2021,40
+Molestaion,3,2021,134
+Other I.P.C.,3,2021,1602
+Murder,4,2021,6
+Att.to.C.Murder,4,2021,24
+Dacoity,4,2021,1
+Robbery (Excluding Chain Snatching),4,2021,28
+Robbery -Chain Snatching,4,2021,2
+Extortion,4,2021,5
+H.B.T.Day / Night,4,2021,31
+Thefts,4,2021,66
+M.V.Thefts.,4,2021,39
+Hurt,4,2021,246
+Riots.,4,2021,19
+Rape,4,2021,41
+Molestaion,4,2021,93
+Other I.P.C.,4,2021,7326
+Murder,5,2021,20
+Att.to.C.Murder,5,2021,38
+Dacoity,5,2021,0
+Robbery (Excluding Chain Snatching),5,2021,48
+Robbery -Chain Snatching,5,2021,4
+Extortion,5,2021,15
+H.B.T.Day / Night,5,2021,37
+Thefts,5,2021,106
+M.V.Thefts.,5,2021,49
+Hurt,5,2021,322
+Riots.,5,2021,28
+Rape,5,2021,43
+Molestaion,5,2021,86
+Other I.P.C.,5,2021,13063
+Murder,6,2021,18
+Att.to.C.Murder,6,2021,35
+Dacoity,6,2021,0
+Robbery (Excluding Chain Snatching),6,2021,34
+Robbery -Chain Snatching,6,2021,4
+Extortion,6,2021,16
+H.B.T.Day / Night,6,2021,39
+Thefts,6,2021,91
+M.V.Thefts.,6,2021,63
+Hurt,6,2021,264
+Riots.,6,2021,20
+Rape,6,2021,44
+Molestaion,6,2021,89
+Other I.P.C.,6,2021,6925
+Murder,7,2021,9
+Att.to.C.Murder,7,2021,28
+Dacoity,7,2021,2
+Robbery (Excluding Chain Snatching),7,2021,58
+Robbery -Chain Snatching,7,2021,6
+Extortion,7,2021,21
+H.B.T.Day / Night,7,2021,54
+Thefts,7,2021,93
+M.V.Thefts.,7,2021,60
+Hurt,7,2021,250
+Riots.,7,2021,18
+Rape,7,2021,35
+Molestaion,7,2021,95
+Other I.P.C.,7,2021,3438
+Murder,8,2021,5
+Att.to.C.Murder,8,2021,22
+Dacoity,8,2021,0
+Robbery (Excluding Chain Snatching),8,2021,55
+Robbery -Chain Snatching,8,2021,3
+Extortion,8,2021,13
+H.B.T.Day / Night,8,2021,55
+Thefts,8,2021,111
+M.V.Thefts.,8,2021,61
+Hurt,8,2021,259
+Riots.,8,2021,20
+Rape,8,2021,44
+Molestaion,8,2021,100
+Molestation,8,2021,100
+Other I.P.C.,8,2021,1206
+Murder,9,2021,7
+Att.to.C.Murder,9,2021,19
+Dacoity,9,2021,1
+Robbery (Excluding Chain Snatching),9,2021,63
+Robbery -Chain Snatching,9,2021,6
+Extortion,9,2021,10
+H.B.T.Day / Night,9,2021,62
+Thefts,9,2021,107
+M.V.Thefts.,9,2021,67
+Hurt,9,2021,251
+Riots.,9,2021,19
+Rape,9,2021,50
+Molestation,9,2021,150
+Other I.P.C.,9,2021,820
+Murder,10,2021,22
+Att.to.C.Murder,10,2021,20
+Dacoity,10,2021,0
+Robbery (Excluding Chain Snatching),10,2021,61
+Robbery -Chain Snatching,10,2021,10
+Extortion,10,2021,13
+H.B.T.Day / Night,10,2021,49
+Thefts,10,2021,129
+M.V.Thefts.,10,2021,94
+Hurt,10,2021,322
+Riots.,10,2021,16
+Rape,10,2021,38
+Molestation,10,2021,208
+Other I.P.C.,10,2021,664
+Murder,10,2021,22
+Att.to.C.Murder,10,2021,20
+Dacoity,10,2021,0
+Robbery (Excluding Chain Snatching),10,2021,61
+Robbery -Chain Snatching,10,2021,10
+Extortion,10,2021,13
+H.B.T.Day / Night,10,2021,49
+Thefts,10,2021,129
+M.V.Thefts.,10,2021,94
+Hurt,10,2021,322
+Riots.,10,2021,16
+Rape,10,2021,38
+Molestation,10,2021,208
+Other I.P.C.,10,2021,664
+Murder,11,2021,12
+Att.to.C.Murder,11,2021,20
+Dacoity,11,2021,1
+Robbery (Excluding Chain Snatching),11,2021,47
+Robbery -Chain Snatching,11,2021,5
+Extortion,11,2021,13
+H.B.T.Day / Night,11,2021,43
+Thefts,11,2021,108
+M.V.Thefts.,11,2021,58
+Hurt,11,2021,320
+Riots.,11,2021,25
+Rape,11,2021,43
+Molestation,11,2021,144
+Other I.P.C.,11,2021,594
+Murder,12,2021,10
+Att.to.C.Murder,12,2021,15
+Dacoity,12,2021,2
+Robbery (Excluding Chain Snatching),12,2021,43
+Robbery -Chain Snatching,12,2021,3
+Extortion,12,2021,21
+H.B.T.Day / Night,12,2021,40
+Thefts,12,2021,129
+M.V.Thefts.,12,2021,59
+Hurt,12,2021,198
+Riots.,12,2021,17
+Rape,12,2021,40
+Molestation,12,2021,108
+Other I.P.C.,12,2021,1000
+Murder,12,2021,10
+Att.to.C.Murder,12,2021,15
+Dacoity,12,2021,2
+Robbery (Excluding Chain Snatching),12,2021,43
+Robbery -Chain Snatching,12,2021,3
+Extortion,12,2021,21
+H.B.T.Day / Night,12,2021,40
+Thefts,12,2021,129
+M.V.Thefts.,12,2021,59
+Hurt,12,2021,198
+Riots.,12,2021,17
+Rape,12,2021,40
+Molestation,12,2021,108
+Other I.P.C.,12,2021,1000
+Murder,1,2022,7
+Att.to.C.Murder,1,2022,12
+Dacoity,1,2022,2
+Robbery (Excluding Chain Snatching),1,2022,51
+Robbery -Chain Snatching,1,2022,5
+Extortion,1,2022,8
+H.B.T.Day / Night,1,2022,41
+Thefts,1,2022,116
+M.V.Thefts.,1,2022,73
+Hurt,1,2022,261
+Riots.,1,2022,11
+Rape,1,2022,48
+Molestation,1,2022,97
+Other I.P.C.,1,2022,659
+Murder,2,2022,12
+Att.to.C.Murder,2,2022,14
+Dacoity,2,2022,1
+Robbery (Excluding Chain Snatching),2,2022,41
+Robbery (Excluding Chain Snatching)95,2,2022,41
+Robbery -Chain Snatching,2,2022,11
+Extortion,2,2022,12
+H.B.T.Day / Night,2,2022,62
+Thefts,2,2022,124
+M.V.Thefts.,2,2022,42
+Hurt,2,2022,224
+Riots.,2,2022,13
+Rape,2,2022,42
+Molestation,2,2022,118
+Other I.P.C.,2,2022,820
+Murder,3,2022,8
+Att.to.C.Murder,3,2022,20
+Dacoity,3,2022,1
+Robbery (Excluding Chain Snatching)95,3,2022,
+Robbery (Excluding Chain Snatching),3,2022,58
+Robbery -Chain Snatching,3,2022,12
+Extortion,3,2022,11
+H.B.T.Day / Night,3,2022,59
+Thefts,3,2022,145
+M.V.Thefts.,3,2022,79
+Hurt,3,2022,362
+Riots.,3,2022,27
+Rape,3,2022,57
+Molestation,3,2022,152
+Other I.P.C.,3,2022,5004
+Murder,4,2022,11
+Att.to.C.Murder,4,2022,24
+Dacoity,4,2022,0
+Robbery (Excluding Chain Snatching),4,2022,83
+Robbery -Chain Snatching,4,2022,7
+Extortion,4,2022,18
+H.B.T.Day / Night,4,2022,51
+Thefts,4,2022,186
+M.V.Thefts.,4,2022,60
+Hurt,4,2022,319
+Riots.,4,2022,32
+Rape,4,2022,52
+Molestation,4,2022,154
+Other I.P.C.,4,2022,7182
+Murder,5,2022,10
+Att.to.C.Murder,5,2022,25
+Dacoity,5,2022,0
+Robbery (Excluding Chain Snatching),5,2022,55
+Robbery -Chain Snatching,5,2022,9
+Extortion,5,2022,19
+H.B.T.Day / Night,5,2022,48
+Thefts,5,2022,189
+M.V.Thefts.,5,2022,71
+Hurt,5,2022,364
+Riots.,5,2022,20
+Rape,5,2022,70
+Molestation,5,2022,156
+Other I.P.C.,5,2022,6012
+Murder,6,2022,16
+Att.to.C.Murder,6,2022,24
+Dacoity,6,2022,1
+Robbery (Excluding Chain Snatching),6,2022,51
+Robbery -Chain Snatching,6,2022,7
+Extortion,6,2022,18
+H.B.T.Day / Night,6,2022,56
+Thefts,6,2022,204
+M.V.Thefts.,6,2022,102
+Hurt,6,2022,276
+Riots.,6,2022,21
+Rape,6,2022,48
+Molestation,6,2022,110
+Other I.P.C.,6,2022,5566
+Murder,7,2022,13
+Att.to.C.Murder,7,2022,14
+Dacoity,7,2022,0
+Robbery (Excluding Chain Snatching),7,2022,49
+Robbery -Chain Snatching,7,2022,13
+Extortion,7,2022,14
+H.B.T.Day / Night,7,2022,58
+Thefts,7,2022,198
+M.V.Thefts.,7,2022,62
+Hurt,7,2022,230
+Riots.,7,2022,9
+Rape,7,2022,58
+Molestation,7,2022,69
+Other I.P.C.,7,2022,1994
+Murder,7,2022,13
+Att.to.C.Murder,7,2022,14
+Dacoity,7,2022,0
+Robbery (Excluding Chain Snatching),7,2022,49
+Robbery -Chain Snatching,7,2022,13
+Extortion,7,2022,14
+H.B.T.Day / Night,7,2022,58
+Thefts,7,2022,198
+M.V.Thefts.,7,2022,62
+Hurt,7,2022,230
+Riots.,7,2022,9
+Rape,7,2022,58
+Molestation,7,2022,69
+Other I.P.C.,7,2022,1994
+Murder,8,2022,10
+Att.to.C.Murder,8,2022,10
+Dacoity,8,2022,1
+Robbery (Excluding Chain Snatching),8,2022,38
+Robbery -Chain Snatching,8,2022,5
+Extortion,8,2022,12
+H.B.T.Day / Night,8,2022,59
+Thefts,8,2022,204
+M.V.Thefts.,8,2022,67
+Hurt,8,2022,259
+Riots.,8,2022,6
+Rape,8,2022,42
+Molestation,8,2022,94
+Other I.P.C.,8,2022,574
+Murder,9,2022,5
+Att.to.C.Murder,9,2022,22
+Dacoity,9,2022,4
+Robbery (Excluding Chain Snatching),9,2022,54
+Robbery -Chain Snatching,9,2022,4
+Extortion,9,2022,13
+H.B.T.Day / Night,9,2022,41
+Thefts,9,2022,143
+M.V.Thefts.,9,2022,60
+Hurt,9,2022,226
+Riots.,9,2022,13
+Rape,9,2022,49
+Molestation,9,2022,122
+Other I.P.C.,9,2022,546
+Murder,10,2022,11
+Att.to.C.Murder,10,2022,21
+Dacoity,10,2022,2
+Robbery (Excluding Chain Snatching),10,2022,45
+Robbery -Chain Snatching,10,2022,9
+Extortion,10,2022,7
+H.B.T.Day / Night,10,2022,33
+Thefts,10,2022,145
+M.V.Thefts.,10,2022,38
+Hurt,10,2022,338
+Riots.,10,2022,11
+Rape,10,2022,53
+Molestation,10,2022,119
+Other I.P.C.,10,2022,559
+Murder,11,2022,6
+Att.to.C.Murder,11,2022,15
+Dacoity,11,2022,1
+Robbery (Excluding Chain Snatching),11,2022,47
+Robbery -Chain Snatching,11,2022,4
+Extortion,11,2022,8
+H.B.T.Day / Night,11,2022,38
+Thefts,11,2022,114
+M.V.Thefts.,11,2022,57
+Hurt,11,2022,207
+Riots.,11,2022,18
+Rape,11,2022,43
+Molestation,11,2022,130
+Other I.P.C.,11,2022,743
+Murder,12,2022,10
+Att.to.C.Murder,12,2022,15
+Dacoity,12,2022,0
+Prep.for Dacoity,12,2022,0
+Robbery,12,2022,38
+Robbery-Chain Snatching,12,2022,7
+Att.to.C.Robbery,12,2022,2
+Extortion,12,2022,12
+H.B.T.Day,12,2022,10
+H.B.T.Night.,12,2022,25
+Thefts.,12,2022,142
+Pocket Picking,12,2022,0
+M.V.Thefts.,12,2022,68
+Hurt,12,2022,286
+Riots.,12,2022,12
+Rape,12,2022,72
+Molestation,12,2022,168
+Other I.P.C.,12,2022,980
+Murder,12,2022,10
+Att.to.C.Murder,12,2022,15
+Dacoity,12,2022,0
+Robbery (Excluding Chain Snatching),12,2022,38
+Robbery -Chain Snatching,12,2022,7
+Extortion,12,2022,12
+H.B.T.Day / Night,12,2022,35
+Thefts,12,2022,142
+M.V.Thefts.,12,2022,68
+Hurt,12,2022,286
+Riots.,12,2022,12
+Rape,12,2022,72
+Molestation,12,2022,168
+Other I.P.C.,12,2022,982
+Murder,1,2023,10
+Att.to.C.Murder,1,2023,18
+Dacoity,1,2023,3
+Prep.for Dacoity,1,2023,3
+Robbery,1,2023,52
+Robbery-Chain Snatching,1,2023,7
+Att.to.C.Robbery,1,2023,2
+Extortion,1,2023,8
+H.B.T.Day,1,2023,8
+H.B.T.Night.,1,2023,45
+Thefts.,1,2023,159
+Pocket Picking,1,2023,1
+M.V.Thefts.,1,2023,83
+Hurt,1,2023,267
+Riots.,1,2023,21
+Rape,1,2023,59
+Molestation,1,2023,125
+Other I.P.C.,1,2023,808
+Total IPC,2,2023,1494
+Murder,2,2023,9
+Att.to.C.Murder,2,2023,21
+Dacoity,2,2023,0
+Prep.for Dacoity,2,2023,1
+Robbery,2,2023,44
+Robbery-Chain Snatching,2,2023,6
+Att.to.C.Robbery,2,2023,2
+Extortion,2,2023,11
+H.B.T.Day,2,2023,6
+H.B.T.Night.,2,2023,36
+Thefts.,2,2023,123
+Pocket Picking,2,2023,0
+M.V.Thefts.,2,2023,71
+Hurt,2,2023,251
+Riots.,2,2023,15
+Rape,2,2023,43
+Molestation,2,2023,131
+Other I.P.C.,2,2023,724
+Total IPC,3,2023,1817
+Murder,3,2023,6
+Att.to.C.Murder,3,2023,29
+Dacoity,3,2023,2
+Prep.for Dacoity,3,2023,2
+Robbery,3,2023,52
+Robbery-Chain Snatching,3,2023,9
+Att.to.C.Robbery,3,2023,3
+Extortion,3,2023,13
+H.B.T.Day,3,2023,7
+H.B.T.Night.,3,2023,28
+Thefts.,3,2023,139
+Pocket Picking,3,2023,1
+M.V.Thefts.,3,2023,56
+Hurt,3,2023,324
+Riots.,3,2023,22
+Rape,3,2023,72
+Molestation,3,2023,131
+Other I.P.C.,3,2023,921
+Total IPC,4,2023,2198
+Murder,4,2023,9
+Att.to.C.Murder,4,2023,21
+Dacoity,4,2023,2
+Prep.for Dacoity,4,2023,3
+Robbery,4,2023,41
+Robbery-Chain Snatching,4,2023,8
+Att.to.C.Robbery,4,2023,2
+Extortion,4,2023,7
+H.B.T.Day,4,2023,9
+H.B.T.Night.,4,2023,33
+Thefts.,4,2023,139
+Pocket Picking,4,2023,0
+M.V.Thefts.,4,2023,53
+Hurt,4,2023,313
+Riots.,4,2023,17
+Rape,4,2023,61
+Molestation,4,2023,121
+Other I.P.C.,4,2023,1359
+Total IPC,5,2023,1875
+Murder,5,2023,14
+Att.to.C.Murder,5,2023,22
+Dacoity,5,2023,0
+Prep.for Dacoity,5,2023,1
+Robbery,5,2023,41
+Robbery-Chain Snatching,5,2023,5
+Att.to.C.Robbery,5,2023,1
+Extortion,5,2023,12
+H.B.T.Day,5,2023,10
+H.B.T.Night.,5,2023,41
+Thefts.,5,2023,143
+Pocket Picking,5,2023,0
+M.V.Thefts.,5,2023,63
+Hurt,5,2023,282
+Riots.,5,2023,6
+Rape,5,2023,53
+Molestation,5,2023,129
+Other I.P.C.,5,2023,1052
+Total IPC,6,2023,1694
+Murder,6,2023,16
+Att.to.C.Murder,6,2023,18
+Dacoity,6,2023,2
+Prep.for Dacoity,6,2023,3
+Robbery,6,2023,36
+Robbery-Chain Snatching,6,2023,9
+Att.to.C.Robbery,6,2023,0
+Extortion,6,2023,12
+H.B.T.Day,6,2023,7
+H.B.T.Night.,6,2023,28
+Thefts.,6,2023,144
+Pocket Picking,6,2023,0
+M.V.Thefts.,6,2023,57
+Hurt,6,2023,272
+Riots.,6,2023,17
+Rape,6,2023,52
+Molestation,6,2023,134
+Other I.P.C.,6,2023,887
+Total IPC,7,2023,2305
+Murder,7,2023,3
+Att.to.C.Murder,7,2023,15
+Dacoity,7,2023,1
+Prep.for Dacoity,7,2023,0
+Robbery,7,2023,47
+Robbery-Chain Snatching,7,2023,7
+Att.to.C.Robbery,7,2023,1
+Extortion,7,2023,14
+H.B.T.Day,7,2023,13
+H.B.T.Night.,7,2023,48
+Thefts.,7,2023,164
+Pocket Picking,7,2023,4
+M.V.Thefts.,7,2023,58
+Hurt,7,2023,224
+Riots.,7,2023,13
+Rape,7,2023,60
+Molestation,7,2023,135
+Other I.P.C.,7,2023,1498
+Total IPC,8,2023,2566
+Murder,8,2023,9
+Att.to.C.Murder,8,2023,29
+Dacoity,8,2023,2
+Prep.for Dacoity,8,2023,5
+Robbery,8,2023,58
+Robbery-Chain Snatching,8,2023,6
+Att.to.C.Robbery,8,2023,2
+Extortion,8,2023,19
+H.B.T.Day,8,2023,11
+H.B.T.Night.,8,2023,49
+Thefts.,8,2023,183
+Pocket Picking,8,2023,1
+M.V.Thefts.,8,2023,70
+Hurt,8,2023,268
+Riots.,8,2023,15
+Rape,8,2023,64
+Molestation,8,2023,130
+Other I.P.C.,8,2023,1645
+Total IPC,9,2023,2575
+Murder,9,2023,3
+Att.to.C.Murder,9,2023,27
+Dacoity,9,2023,2
+Prep.for Dacoity,9,2023,4
+Robbery,9,2023,57
+Robbery-Chain Snatching,9,2023,8
+Att.to.C.Robbery,9,2023,0
+Extortion,9,2023,11
+H.B.T.Day,9,2023,7
+H.B.T.Night.,9,2023,33
+Thefts.,9,2023,207
+Pocket Picking,9,2023,2
+M.V.Thefts.,9,2023,43
+Hurt,9,2023,262
+Riots.,9,2023,21
+Rape,9,2023,43
+Molestation,9,2023,131
+Other I.P.C.,9,2023,1714
+Murder,9,2023,3
+Att.to.C.Murder,9,2023,27
+Dacoity,9,2023,2
+Prep.for Dacoity,9,2023,4
+Robbery,9,2023,57
+Robbery-Chain Snatching,9,2023,8
+Att.to.C.Robbery,9,2023,0
+Extortion,9,2023,11
+H.B.T.Day,9,2023,7
+H.B.T.Night.,9,2023,33
+Thefts.,9,2023,207
+Pocket Picking,9,2023,2
+M.V.Thefts.,9,2023,43
+Hurt,9,2023,262
+Riots.,9,2023,21
+Rape,9,2023,43
+Molestation,9,2023,131
+Other I.P.C.,9,2023,1714
+Murder,10,2023,11
+Att.to.C.Murder,10,2023,26
+Dacoity,10,2023,0
+Prep.for Dacoity,10,2023,1
+Robbery,10,2023,53
+Robbery-Chain Snatching,10,2023,13
+Att.to.C.Robbery,10,2023,0
+Extortion,10,2023,13
+H.B.T.Day,10,2023,4
+H.B.T.Night.,10,2023,45
+Thefts.,10,2023,193
+Pocket Picking,10,2023,0
+M.V.Thefts.,10,2023,77
+Hurt,10,2023,364
+Riots.,10,2023,30
+Rape,10,2023,62
+Molestation,10,2023,179
+Other I.P.C.,10,2023,1772
+Murder,10,2023,11
+Att.to.C.Murder,10,2023,26
+Dacoity,10,2023,0
+Prep.for Dacoity,10,2023,1
+Robbery,10,2023,53
+Robbery-Chain Snatching,10,2023,13
+Att.to.C.Robbery,10,2023,0
+Extortion,10,2023,13
+H.B.T.Day,10,2023,4
+H.B.T.Night.,10,2023,45
+Thefts.,10,2023,193
+Pocket Picking,10,2023,0
+M.V.Thefts.,10,2023,77
+Hurt,10,2023,364
+Riots.,10,2023,30
+Rape,10,2023,62
+Molestation,10,2023,179
+Other I.P.C.,10,2023,1772
+Murder,11,2023,8
+Att.to.C.Murder,11,2023,35
+Dacoity,11,2023,2
+Prep.for Dacoity,11,2023,0
+Robbery,11,2023,40
+Robbery-Chain Snatching,11,2023,7
+Att.to.C.Robbery,11,2023,3
+Extortion,11,2023,9
+H.B.T.Day,11,2023,10
+H.B.T.Night.,11,2023,28
+Thefts.,11,2023,173
+Pocket Picking,11,2023,1
+M.V.Thefts.,11,2023,66
+Hurt,11,2023,351
+Riots.,11,2023,26
+Rape,11,2023,42
+Molestation,11,2023,143
+Other I.P.C.,11,2023,1929
+Total IPC,12,2023,3975
+Murder,12,2023,9
+Att.to.C.Murder,12,2023,15
+Dacoity,12,2023,2
+Prep.for Dacoity,12,2023,0
+Robbery,12,2023,47
+Robbery-Chain Snatching,12,2023,2
+Att.to.C.Robbery,12,2023,1
+Extortion,12,2023,23
+H.B.T.Day,12,2023,4
+H.B.T.Night.,12,2023,27
+Thefts.,12,2023,182
+Pocket Picking,12,2023,0
+M.V.Thefts.,12,2023,52
+Hurt,12,2023,331
+Riots.,12,2023,15
+Rape,12,2023,61
+Molestation,12,2023,175
+Other I.P.C.,12,2023,3029
+Total IPC,1,2024,3196
+Murder,1,2024,8
+Att.to.C.Murder,1,2024,27
+Dacoity,1,2024,2
+Prep.for Dacoity,1,2024,2
+Robbery,1,2024,39
+Robbery-Chain Snatching,1,2024,6
+Att.to.C.Robbery,1,2024,1
+Extortion,1,2024,9
+H.B.T.Day,1,2024,11
+H.B.T.Night.,1,2024,37
+Thefts.,1,2024,207
+Pocket Picking,1,2024,0
+M.V.Thefts.,1,2024,51
+Hurt,1,2024,285
+Riots.,1,2024,23
+Rape,1,2024,47
+Molestation,1,2024,152
+Other I.P.C.,1,2024,2289
+Total IPC,1,2024,2876
+Murder,1,2024,8
+Att.to.C.Murder,1,2024,24
+Dacoity,1,2024,2
+Prep.for Dacoity,1,2024,1
+Robbery,1,2024,46
+Robbery-Chain Snatching,1,2024,8
+Att.to.C.Robbery,1,2024,2
+Extortion,1,2024,22
+H.B.T.Day,1,2024,12
+H.B.T.Night.,1,2024,48
+Thefts.,1,2024,210
+Pocket Picking,1,2024,1
+M.V.Thefts.,1,2024,78
+Hurt,1,2024,276
+Riots.,1,2024,15
+Rape,1,2024,54
+Molestation,1,2024,140
+Other I.P.C.,1,2024,1929
+Total IPC,2,2024,2876
+Murder,2,2024,8
+Att.to.C.Murder,2,2024,24
+Dacoity,2,2024,2
+Prep.for Dacoity,2,2024,1
+Robbery,2,2024,46
+Robbery-Chain Snatching,2,2024,8
+Att.to.C.Robbery,2,2024,2
+Extortion,2,2024,22
+H.B.T.Day,2,2024,12
+H.B.T.Night.,2,2024,48
+Thefts.,2,2024,210
+Pocket Picking,2,2024,1
+M.V.Thefts.,2,2024,78
+Hurt,2,2024,276
+Riots.,2,2024,15
+Rape,2,2024,54
+Molestation,2,2024,140
+Other I.P.C.,2,2024,1929
+Total IPC,3,2024,2790
+Murder,3,2024,8
+Att.to.C.Murder,3,2024,33
+Dacoity,3,2024,1
+Prep.for Dacoity,3,2024,1
+Robbery,3,2024,57
+Robbery-Chain Snatching,3,2024,9
+Att.to.C.Robbery,3,2024,0
+Extortion,3,2024,11
+H.B.T.Day,3,2024,10
+H.B.T.Night.,3,2024,45
+Thefts.,3,2024,215
+Pocket Picking,3,2024,0
+M.V.Thefts.,3,2024,85
+Hurt,3,2024,421
+Riots.,3,2024,36
+Rape,3,2024,65
+Molestation,3,2024,186
+Other I.P.C.,3,2024,1607
+Total IPC,4,2024,2612
+Murder,4,2024,8
+Att.to.C.Murder,4,2024,39
+Dacoity,4,2024,5
+Prep.for Dacoity,4,2024,0
+Robbery,4,2024,43
+Robbery-Chain Snatching,4,2024,9
+Att.to.C.Robbery,4,2024,0
+Extortion,4,2024,15
+H.B.T.Day,4,2024,8
+H.B.T.Night.,4,2024,30
+Thefts.,4,2024,174
+Pocket Picking,4,2024,0
+M.V.Thefts.,4,2024,73
+Hurt,4,2024,343
+Riots.,4,2024,19
+Rape,4,2024,60
+Molestation,4,2024,175
+Other I.P.C.,4,2024,1611
+Total IPC,5,2024,2509
+Murder,5,2024,11
+Att.to.C.Murder,5,2024,26
+Dacoity,5,2024,1
+Prep.for Dacoity,5,2024,1
+Robbery,5,2024,38
+Robbery-Chain Snatching,5,2024,8
+Att.to.C.Robbery,5,2024,3
+Extortion,5,2024,10
+H.B.T.Day,5,2024,5
+H.B.T.Night.,5,2024,24
+Thefts.,5,2024,147
+Pocket Picking,5,2024,0
+M.V.Thefts.,5,2024,36
+Hurt,5,2024,327
+Riots.,5,2024,27
+Rape,5,2024,54
+Molestation,5,2024,146
+Other I.P.C.,5,2024,1645
+Total IPC,6,2024,3504
+Murder,6,2024,8
+Att.to.C.Murder,6,2024,21
+Dacoity,6,2024,0
+Prep.for Dacoity,6,2024,1
+Robbery,6,2024,50
+Robbery-Chain Snatching,6,2024,9
+Robbery Chain Snatching,6,2024,9
+Att.to.C.Robbery,6,2024,0
+Extortion,6,2024,9
+H.B.T.Day,6,2024,6
+H.B.T.Night.,6,2024,41
+Thefts.,6,2024,148
+Pocket Picking,6,2024,0
+M.V.Thefts.,6,2024,52
+M.V.Thefts.,6,2024,52
+Snatching,6,2024,0
+Hurt,6,2024,337
+Riots.,6,2024,18
+Rape,6,2024,49
+Molestation,6,2024,158
+Other I.P.C.,6,2024,2597
+Murder,7,2024,5
+Att.to.C.Murder,7,2024,15
+Dacoity,7,2024,1
+Prep.for Dacoity,7,2024,0
+Robbery,7,2024,18
+Robbery Chain Snatching,7,2024,2
+Att.to.C.Robbery,7,2024,4
+Extortion,7,2024,3
+H.B.T.Day,7,2024,5
+H.B.T.Night.,7,2024,34
+Thefts.,7,2024,112
+M.V.Thefts.,7,2024,39
+Snatching,7,2024,1
+Hurt,7,2024,203
+Riots.,7,2024,19
+Rape,7,2024,48
+Molestation,7,2024,104
+Other I.P.C.,7,2024,1789
+Murder,8,2024,10
+Att.to.C.Murder,8,2024,30
+Dacoity,8,2024,2
+Prep.for Dacoity,8,2024,1
+Robbery,8,2024,27
+Robbery Chain Snatching,8,2024,3
+Att.to.C.Robbery,8,2024,3
+Extortion,8,2024,11
+H.B.T.Day,8,2024,10
+H.B.T.Night.,8,2024,35
+Thefts.,8,2024,118
+M.V.Thefts.,8,2024,72
+Snatching,8,2024,11
+Hurt,8,2024,265
+Riots.,8,2024,19
+Rape,8,2024,89
+Molestation,8,2024,231
+Other I.P.C.,8,2024,1962
+Murder,9,2024,4
+Att.to.C.Murder,9,2024,13
+Dacoity,9,2024,5
+Prep.for Dacoity,9,2024,1
+Robbery,9,2024,33
+Robbery Chain Snatching,9,2024,9
+Att.to.C.Robbery,9,2024,1
+Extortion,9,2024,5
+H.B.T.Day,9,2024,2
+H.B.T.Night.,9,2024,25
+Thefts.,9,2024,141
+M.V.Thefts.,9,2024,44
+Snatching,9,2024,12
+Hurt,9,2024,282
+Riots.,9,2024,22
+Rape,9,2024,67
+Molestation,9,2024,230
+Other I.P.C.,9,2024,1041
+Murder,10,2024,8
+Att.to.C.Murder,10,2024,23
+Dacoity,10,2024,0
+Prep.for Dacoity,10,2024,1
+Robbery,10,2024,23
+Robbery Chain Snatching,10,2024,7
+Att.to.C.Robbery,10,2024,1
+Extortion,10,2024,12
+H.B.T.Day,10,2024,6
+H.B.T.Night.,10,2024,30
+Thefts.,10,2024,139
+M.V.Thefts.,10,2024,52
+Snatching,10,2024,12
+Hurt,10,2024,303
+Riots.,10,2024,25
+Rape,10,2024,69
+Molestation,10,2024,170
+Other I.P.C.,10,2024,1955
+Murder,11,2024,11
+Att.to.C.Murder,11,2024,14
+Dacoity,11,2024,0
+Prep.for Dacoity,11,2024,1
+Robbery,11,2024,15
+Robbery Chain Snatching,11,2024,5
+Att.to.C.Robbery,11,2024,1
+Extortion,11,2024,7
+H.B.T.Day,11,2024,4
+H.B.T.Night.,11,2024,20
+Thefts.,11,2024,91
+M.V.Thefts.,11,2024,45
+Snatching,11,2024,1
+Hurt,11,2024,248
+Riots.,11,2024,23
+Rape,11,2024,57
+Molestation,11,2024,121
+Other I.P.C.,11,2024,1144
+Murder,12,2024,6
+Att.to.C.Murder,12,2024,18
+Dacoity,12,2024,0
+Prep.for Dacoity,12,2024,0
+Robbery,12,2024,22
+Robbery Chain Snatching,12,2024,2
+Att.to.C.Robbery,12,2024,0
+Extortion,12,2024,14
+H.B.T.Day,12,2024,10
+H.B.T.Night.,12,2024,34
+Thefts.,12,2024,114
+M.V.Thefts.,12,2024,56
+Snatching,12,2024,3
+Hurt,12,2024,292
+Riots.,12,2024,18
+Rape,12,2024,49
+Molestation,12,2024,145
+Other I.P.C.,12,2024,2192
+Murder,12,2024,6
+Att.to.C.Murder,12,2024,18
+Dacoity,12,2024,0
+Prep.for Dacoity,12,2024,0
+Robbery,12,2024,22
+Robbery Chain Snatching,12,2024,2
+Att.to.C.Robbery,12,2024,0
+Extortion,12,2024,14
+H.B.T.Day,12,2024,10
+H.B.T.Night.,12,2024,34
+Thefts.,12,2024,114
+M.V.Thefts.,12,2024,56
+Snatching,12,2024,3
+Hurt,12,2024,292
+Riots.,12,2024,18
+Rape,12,2024,49
+Molestation,12,2024,145
+Other I.P.C.,12,2024,2192
+Murder,1,2025,8
+Att.to.C.Murder,1,2025,21
+Dacoity,1,2025,1
+Prep.for Dacoity,1,2025,1
+Robbery,1,2025,30
+Robbery Chain Snatching,1,2025,9
+Att.to.C.Robbery,1,2025,3
+Extortion,1,2025,15
+H.B.T.Day,1,2025,6
+H.B.T.Night.,1,2025,46
+Thefts.,1,2025,144
+M.V.Thefts.,1,2025,57
+Snatching,1,2025,7
+Hurt,1,2025,276
+Riots.,1,2025,20
+Rape,1,2025,59
+Molestation,1,2025,182
+Other I.P.C.,1,2025,1920
+Murder,1,2025,8
+Att.to.C.Murder,1,2025,21
+Dacoity,1,2025,1
+Prep.for Dacoity,1,2025,1
+Robbery,1,2025,30
+Robbery Chain Snatching,1,2025,9
+Att.to.C.Robbery,1,2025,3
+Extortion,1,2025,15
+H.B.T.Day,1,2025,6
+H.B.T.Night.,1,2025,46
+Thefts.,1,2025,144
+M.V.Thefts.,1,2025,57
+Snatching,1,2025,7
+Hurt,1,2025,276
+Riots.,1,2025,20
+Rape,1,2025,61
+Molestation,1,2025,184
+Other I.P.C.,1,2025,1921
+Murder,2,2025,9
+Att.to.C.Murder,2,2025,19
+Dacoity,2,2025,0
+Prep.for Dacoity,2,2025,0
+Robbery,2,2025,14
+Robbery Chain Snatching,2,2025,2
+Att.to.C.Robbery,2,2025,1
+Extortion,2,2025,11
+H.B.T.Day,2,2025,5
+H.B.T.Night.,2,2025,21
+Thefts.,2,2025,118
+M.V.Thefts.,2,2025,55
+Snatching,2,2025,5
+Hurt,2,2025,249
+Riots.,2,2025,28
+Rape,2,2025,57
+Molestation,2,2025,157
+Other I.P.C.,2,2025,1662
+Murder,3,2025,14
+Att.to.C.Murder,3,2025,24
+Dacoity,3,2025,0
+Prep.for Dacoity,3,2025,0
+Robbery,3,2025,23
+Robbery Chain Snatching,3,2025,0
+Att.to.C.Robbery,3,2025,0
+Extortion,3,2025,18
+H.B.T.Day,3,2025,4
+H.B.T.Night.,3,2025,25
+Thefts.,3,2025,98
+M.V.Thefts.,3,2025,59
+Snatching,3,2025,8
+Hurt,3,2025,381
+Riots.,3,2025,31
+Rape,3,2025,72
+Molestation,3,2025,190
+Other I.P.C.,3,2025,1515
+Murder,4,2025,12
+Att.to.C.Murder,4,2025,33
+Dacoity,4,2025,1
+Prep.for Dacoity,4,2025,0
+Robbery,4,2025,13
+Robbery Chain Snatching,4,2025,8
+Att.to.C.Robbery,4,2025,0
+Extortion,4,2025,22
+H.B.T.Day,4,2025,7
+H.B.T.Night.,4,2025,24
+Thefts.,4,2025,114
+M.V.Thefts.,4,2025,43
+Snatching,4,2025,8
+Hurt,4,2025,291
+Riots.,4,2025,33
+Rape,4,2025,76
+Molestation,4,2025,179
+Other I.P.C.,4,2025,1595
+Murder,5,2025,15
+Att.to.C.Murder,5,2025,21
+Dacoity,5,2025,1
+Prep.for Dacoity,5,2025,0
+Robbery,5,2025,9
+Robbery Chain Snatching,5,2025,2
+Att.to.C.Robbery,5,2025,0
+Extortion,5,2025,14
+H.B.T.Day,5,2025,8
+H.B.T.Night.,5,2025,22
+Thefts.,5,2025,142
+M.V.Thefts.,5,2025,39
+Snatching,5,2025,8
+Hurt,5,2025,311
+Riots.,5,2025,33
+Rape,5,2025,63
+Molestation,5,2025,171
+Other I.P.C.,5,2025,3106
+Murder,6,2025,5
+Att.to.C.Murder,6,2025,34
+Dacoity,6,2025,2
+Prep.for Dacoity,6,2025,1
+Robbery,6,2025,33
+Robbery Chain Snatching,6,2025,7
+Att.to.C.Robbery,6,2025,2
+Extortion,6,2025,21
+H.B.T.Day,6,2025,3
+H.B.T.Night.,6,2025,35
+Thefts.,6,2025,163
+M.V.Thefts.,6,2025,71
+Snatching,6,2025,9
+Hurt,6,2025,286
+Riots.,6,2025,24
+Rape,6,2025,76
+Molestation,6,2025,176
+Other I.P.C.,6,2025,3979
+Murder,6,2025,5
+Att.to.C.Murder,6,2025,34
+Dacoity,6,2025,2
+Prep.for Dacoity,6,2025,1
+Robbery,6,2025,33
+Robbery Chain Snatching,6,2025,7
+Att.to.C.Robbery,6,2025,2
+Extortion,6,2025,21
+H.B.T.Day,6,2025,3
+H.B.T.Night.,6,2025,35
+Thefts.,6,2025,163
+M.V.Thefts.,6,2025,71
+Snatching,6,2025,9
+Hurt,6,2025,286
+Riots.,6,2025,24
+Rape,6,2025,76
+Molestation,6,2025,176
+Other I.P.C.,6,2025,3979
+Murder,7,2025,6
+Att.to.C.Murder,7,2025,23
+Dacoity,7,2025,2
+Prep.for Dacoity,7,2025,0
+Robbery,7,2025,21
+Robbery Chain Snatching,7,2025,5
+Att.to.C.Robbery,7,2025,0
+Extortion,7,2025,25
+H.B.T.Day,7,2025,6
+H.B.T.Night.,7,2025,31
+Thefts.,7,2025,163
+M.V.Thefts.,7,2025,75
+Snatching,7,2025,8
+Hurt,7,2025,266
+Riots.,7,2025,40
+Rape,7,2025,84
+Molestation,7,2025,183
+Other I.P.C.,7,2025,3844
+Murder,7,2025,6
+Att.to.C.Murder,7,2025,23
+Dacoity,7,2025,2
+Prep.for Dacoity,7,2025,0
+Robbery,7,2025,21
+Robbery Chain Snatching,7,2025,5
+Att.to.C.Robbery,7,2025,0
+Extortion,7,2025,25
+H.B.T.Day,7,2025,6
+H.B.T.Night.,7,2025,31
+Thefts.,7,2025,163
+M.V.Thefts.,7,2025,75
+Snatching,7,2025,8
+Hurt,7,2025,266
+Riots.,7,2025,40
+Rape,7,2025,84
+Molestation,7,2025,183
+Other I.P.C.,7,2025,3844
+Murder,7,2025,6
+Att.to.C.Murder,7,2025,16
+Dacoity,8,2025,0
+Prep.for Dacoity,8,2025,0
+Robbery,8,2025,22
+Robbery Chain Snatching,8,2025,4
+Att.to.C.Robbery,8,2025,1
+Extortion,8,2025,23
+H.B.T.Day,8,2025,4
+H.B.T.Night.,8,2025,34
+Thefts.,8,2025,172
+M.V.Thefts.,8,2025,71
+Snatching,8,2025,3
+Hurt,8,2025,253
+Riots.,8,2025,22
+Rape,8,2025,65
+Molestation,8,2025,143
+Other I.P.C.,8,2025,3239
+Murder,8,2025,6
+Att.to.C.Murder,8,2025,16
+Dacoity,8,2025,0
+Prep.for Dacoity,8,2025,0
+Robbery,8,2025,22
+Robbery Chain Snatching,8,2025,4
+Att.to.C.Robbery,8,2025,1
+Extortion,8,2025,23
+H.B.T.Day,8,2025,4
+H.B.T.Night.,8,2025,34
+Thefts.,8,2025,172
+M.V.Thefts.,8,2025,71
+Snatching,8,2025,3
+Hurt,8,2025,253
+Riots.,8,2025,22
+Rape,8,2025,65
+Molestation,8,2025,143
+Other I.P.C.,8,2025,3239
+Murder,9,2025,11
+Att.to.C.Murder,9,2025,29
+Dacoity,9,2025,1
+Prep.for Dacoity,9,2025,0
+Robbery,9,2025,23
+Robbery Chain Snatching,9,2025,5
+Att.to.C.Robbery,9,2025,0
+Extortion,9,2025,23
+H.B.T.Day,9,2025,5
+H.B.T.Night.,9,2025,29
+Thefts.,9,2025,164
+M.V.Thefts.,9,2025,60
+Snatching,9,2025,6
+Hurt,9,2025,267
+Riots.,9,2025,32
+Rape,9,2025,73
+Molestation,9,2025,154
+Other I.P.C.,9,2025,3108
+Murder,9,2025,11
+Att.to.C.Murder,9,2025,29
+Dacoity,9,2025,1
+Prep.for Dacoity,9,2025,0
+Robbery,9,2025,23
+Robbery Chain Snatching,9,2025,5
+Att.to.C.Robbery,9,2025,0
+Extortion,9,2025,23
+H.B.T.Day,9,2025,5
+H.B.T.Night.,9,2025,29
+Thefts.,9,2025,164
+M.V.Thefts.,9,2025,60
+Snatching,9,2025,6
+Hurt,9,2025,267
+Riots.,9,2025,32
+Rape,9,2025,73
+Molestation,9,2025,154
+Other I.P.C.,9,2025,3108
+Murder,10,2025,9
+Att.to.C.Murder,10,2025,37
+Dacoity,10,2025,3
+Prep.for Dacoity,10,2025,0
+Robbery,10,2025,46
+Robbery Chain Snatching,10,2025,1
+Att.to.C.Robbery,10,2025,2
+Extortion,10,2025,18
+H.B.T.Day,10,2025,6
+H.B.T.Night.,10,2025,19
+Thefts.,10,2025,184
+M.V.Thefts.,10,2025,73
+Snatching,10,2025,11
+Hurt,10,2025,405
+Riots.,10,2025,44
+Rape,10,2025,88
+Molestation,10,2025,162
+Other I.P.C.,10,2025,2649
+Murder,10,2025,9
+Att.to.C.Murder,10,2025,37
+Dacoity,10,2025,3
+Prep.for Dacoity,10,2025,0
+Robbery,10,2025,46
+Robbery Chain Snatching,10,2025,1
+Att.to.C.Robbery,10,2025,2
+Extortion,10,2025,18
+H.B.T.Day,10,2025,6
+H.B.T.Night.,10,2025,19
+Thefts.,10,2025,184
+M.V.Thefts.,10,2025,73
+Snatching,10,2025,11
+Hurt,10,2025,405
+Riots.,10,2025,44
+Rape,10,2025,88
+Molestation,10,2025,162
+Other I.P.C.,10,2025,2649
+Murder,11,2025,9
+Att.to.C.Murder,11,2025,28
+Dacoity,11,2025,3
+Prep.for Dacoity,11,2025,0
+Robbery,11,2025,29
+Robbery Chain Snatching,11,2025,13
+Att.to.C.Robbery,11,2025,0
+Extortion,11,2025,17
+H.B.T.Day,11,2025,3
+H.B.T.Night.,11,2025,34
+Thefts.,11,2025,140
+M.V.Thefts.,11,2025,46
+Snatching,11,2025,4
+Hurt,11,2025,274
+Riots.,11,2025,35
+Rape,11,2025,76
+Molestation,11,2025,167
+Other I.P.C.,11,2025,3707
+Murder,12,2025,7
+Att.to.C.Murder,12,2025,23
+Dacoity,12,2025,5
+Prep.for Dacoity,12,2025,0
+Robbery,12,2025,38
+Robbery Chain Snatching,12,2025,4
+Att.to.C.Robbery,12,2025,1
+Extortion,12,2025,40
+H.B.T.Day,12,2025,20
+H.B.T.Night.,12,2025,86
+Thefts.,12,2025,589
+M.V.Thefts.,12,2025,184
+Snatching,12,2025,15
+Hurt,12,2025,334
+Riots.,12,2025,47
+Rape,12,2025,104
+Molestation,12,2025,235
+Other I.P.C.,12,2025,4356
+Murder,1,2026,8
+Att.to.C.Murder,1,2026,24
+Dacoity,1,2026,3
+Prep.for Dacoity,1,2026,1
+Robbery,1,2026,26
+Robbery Chain Snatching,1,2026,6
+Att.to.C.Robbery,1,2026,0
+Extortion,1,2026,16
+H.B.T.Day,1,2026,10
+H.B.T.Night.,1,2026,75
+Thefts.,1,2026,496
+M.V.Thefts.,1,2026,188
+Snatching,1,2026,18
+Hurt,1,2026,332
+Riots.,1,2026,41
+Rape,1,2026,80
+Molestation,1,2026,174
+Other I.P.C.,1,2026,3427
+Murder,2,2026,10
+Att.to.C.Murder,2,2026,30
+Dacoity,2,2026,2
+Prep.for Dacoity,2,2026,0
+Robbery,2,2026,27
+Robbery Chain Snatching,2,2026,13
+Att.to.C.Robbery,2,2026,0
+Extortion,2,2026,26
+H.B.T.Day,2,2026,9
+H.B.T.Night.,2,2026,53
+Thefts.,2,2026,547
+M.V.Thefts.,2,2026,193
+Snatching,2,2026,15
+Hurt,2,2026,323
+Riots.,2,2026,44
+Rape,2,2026,66
+Sexual Offences (Sec 69 BNS -only Mejor),2,2026,14
+Molestation,2,2026,167
+Other I.P.C.,2,2026,5129
+Murder,3,2026,20
+Att.to.C.Murder,3,2026,46
+Dacoity,3,2026,1
+Prep.for Dacoity,3,2026,0
+Robbery,3,2026,38
+Robbery Chain Snatching,3,2026,5
+Att.to.C.Robbery,3,2026,0
+Extortion,3,2026,31
+H.B.T.Day,3,2026,13
+H.B.T.Night.,3,2026,72
+Thefts.,3,2026,577
+M.V.Thefts.,3,2026,201
+Snatching,3,2026,5
+Hurt,3,2026,465
+Riots.,3,2026,64
+Rape,3,2026,61
+Sexual Offences (Sec 69 BNS -only Mejor),3,2026,34
+Molestation,3,2026,187
+Other I.P.C.,3,2026,5911
+Murder,4,2026,16
+Att.to.C.Murder,4,2026,42
+Dacoity,4,2026,1
+Prep.for Dacoity,4,2026,0
+Robbery,4,2026,23
+Robbery Chain Snatching,4,2026,12
+Att.to.C.Robbery,4,2026,1
+Extortion,4,2026,35
+H.B.T.Day,4,2026,14
+H.B.T.Night.,4,2026,68
+Thefts.,4,2026,577
+M.V.Thefts.,4,2026,240
+Snatching,4,2026,9
+Hurt,4,2026,353
+Riots.,4,2026,42
+Rape,4,2026,78
+Sexual Offences (Sec 69 BNS -only Mejor),4,2026,47
+Molestation,4,2026,218
+Other I.P.C.,4,2026,4472
+Murder,5,2026,16
+Att.to.C.Murder,5,2026,49
+Dacoity,5,2026,1
+Prep.for Dacoity,5,2026,0
+Robbery,5,2026,26
+Robbery Chain Snatching,5,2026,9
+Att.to.C.Robbery,5,2026,0
+Extortion,5,2026,23
+H.B.T.Day,5,2026,11
+H.B.T.Night.,5,2026,70
+Thefts.,5,2026,705
+M.V.Thefts.,5,2026,235
+Snatching,5,2026,13
+Hurt,5,2026,390
+Riots.,5,2026,41
+Rape,5,2026,64
+Sexual Offences (Sec 69 BNS -only Mejor),5,2026,33
+Molestation,5,2026,206
+Other I.P.C.,5,2026,6318
+Murder,6,2026,7
+Att.to.C.Murder,6,2026,36
+Dacoity,6,2026,1
+Prep.for Dacoity,6,2026,0
+Robbery,6,2026,23
+Robbery Chain Snatching,6,2026,10
+Att.to.C.Robbery,6,2026,3
+Extortion,6,2026,21
+H.B.T.Day,6,2026,5
+H.B.T.Night.,6,2026,56
+Thefts.,6,2026,568
+M.V.Thefts.,6,2026,251
+Snatching,6,2026,17
+Hurt,6,2026,374
+Riots.,6,2026,50
+Rape,6,2026,79
+Sexual Offences (Sec 69 BNS -only Mejor),6,2026,27
+Molestation,6,2026,197
+Other I.P.C.,6,2026,5623
+Murder,7,2026,9
+Att.to.C.Murder,7,2026,34
+Dacoity,7,2026,1
+Prep.for Dacoity,7,2026,0
+Robbery,7,2026,37
+Robbery Chain Snatching,7,2026,7
+Att.to.C.Robbery,7,2026,0
+Extortion,7,2026,26
+H.B.T.Day,7,2026,13
+H.B.T.Night.,7,2026,83
+Thefts.,7,2026,489
+M.V.Thefts.,7,2026,233
+Snatching,7,2026,14
+Hurt,7,2026,285
+Riots.,7,2026,43
+Rape,7,2026,64
+Sexual Offences (Sec 69 BNS -only Mejor),7,2026,29
+Molestation,7,2026,174
+Other I.P.C.,7,2026,5841
+Murder,8,2026,16
+Att.to.C.Murder,8,2026,47
+Dacoity,8,2026,1
+Prep.for Dacoity,8,2026,0
+Robbery,8,2026,37
+Robbery Chain Snatching,8,2026,7
+Att.to.C.Robbery,8,2026,1
+Extortion,8,2026,26
+H.B.T.Day,8,2026,19
+H.B.T.Night.,8,2026,71
+Thefts.,8,2026,518
+M.V.Thefts.,8,2026,248
+Snatching,8,2026,14
+Hurt,8,2026,289
+Riots.,8,2026,40
+Rape,8,2026,59
+Sexual Offences (Sec 69 BNS -only Mejor),8,2026,25
+Molestation,8,2026,169
+Other I.P.C.,8,2026,5347

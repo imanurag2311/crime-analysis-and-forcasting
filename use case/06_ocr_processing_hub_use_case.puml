@@ -1,0 +1,75 @@
+@startuml
+title Mumbai Crime Analysis & Forecasting System\n<b>Subsystem 5: Computer Vision & OCR Processing Hub</b>
+scale max 780x1050
+left to right direction
+
+skinparam shadowing false
+skinparam packageStyle rectangle
+skinparam roundcorner 8
+skinparam defaultFontName Arial
+skinparam defaultFontSize 11
+skinparam ArrowColor #334155
+skinparam ArrowThickness 1.2
+
+skinparam actor {
+    BackgroundColor #E2E8F0
+    BorderColor #1E293B
+    FontSize 11
+}
+
+skinparam usecase {
+    BackgroundColor #FFFFFF
+    BorderColor #2563EB
+    BorderThickness 1.3
+    FontSize 11
+}
+
+skinparam rectangle {
+    BackgroundColor #F8FAFC
+    BorderColor #0F172A
+    BorderThickness 1.5
+    FontSize 12
+    FontStyle bold
+}
+
+actor "OCR Document Reviewer" as Reviewer
+actor "CLI Batch Runner" as CLI << System >>
+actor "SQLite Central\nDatabase" as SQLite << System >>
+
+rectangle "Computer Vision & OCR Hub Subsystem" {
+    usecase "UC-OCR-01: Upload Scanned PDF\nPolice Reports / FIRs" as UC_UploadPDF
+    usecase "UC-OCR-02: Render PDF Pages to\nHigh-Resolution Images (300 DPI)" as UC_Render
+    usecase "UC-OCR-03: Preprocess Images\n(CLAHE, Deskew, Denoise)" as UC_Preprocess
+    usecase "UC-OCR-04: Perform Optical Character Recognition\n(EasyOCR Engine)" as UC_EasyOCR
+    usecase "UC-OCR-05: Reconstruct Table Rows\nUsing Bounding Box Y-Tolerance" as UC_RowRecon
+    usecase "UC-OCR-06: Extract Registered (R) Column\n& Map Legal Sections" as UC_ExtractR
+    usecase "UC-OCR-07: Filter Table Footers,\nHeaders & Noise Tokens" as UC_FilterNoise
+    usecase "UC-OCR-08: Flag Low-Confidence Records\n(< Threshold Score)" as UC_Flag
+    usecase "UC-OCR-09: Inline Edit Cell Values\n& Correct OCR Text" as UC_InlineEdit
+    usecase "UC-OCR-10: Approve or Reject\nExtracted Rows" as UC_ApproveReject
+    usecase "UC-OCR-11: Ingest Approved Records\ninto Database" as UC_IngestDB
+
+    UC_UploadPDF --> UC_Render
+    UC_Render ..> UC_Preprocess : <<include>>
+    UC_Preprocess ..> UC_EasyOCR : <<include>>
+    UC_EasyOCR ..> UC_RowRecon : <<include>>
+    UC_RowRecon ..> UC_ExtractR : <<include>>
+    UC_ExtractR ..> UC_FilterNoise : <<include>>
+    UC_FilterNoise ..> UC_Flag : <<include>>
+
+    UC_InlineEdit ..> UC_Flag : <<extend>>
+    UC_ApproveReject ..> UC_InlineEdit : <<include>>
+    UC_IngestDB ..> UC_ApproveReject : <<include>>
+}
+
+Reviewer --> UC_UploadPDF
+Reviewer --> UC_InlineEdit
+Reviewer --> UC_ApproveReject
+Reviewer --> UC_IngestDB
+
+CLI --> UC_UploadPDF
+CLI --> UC_IngestDB
+
+UC_IngestDB --> SQLite
+
+@enduml

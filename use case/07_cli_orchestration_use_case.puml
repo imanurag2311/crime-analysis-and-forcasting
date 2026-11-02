@@ -1,0 +1,65 @@
+@startuml
+title Mumbai Crime Analysis & Forecasting System\n<b>Subsystem 6: CLI Orchestration & Batch Operations</b>
+scale max 780x1050
+left to right direction
+
+skinparam shadowing false
+skinparam packageStyle rectangle
+skinparam roundcorner 8
+skinparam defaultFontName Arial
+skinparam defaultFontSize 11
+skinparam ArrowColor #334155
+skinparam ArrowThickness 1.2
+
+skinparam actor {
+    BackgroundColor #E2E8F0
+    BorderColor #1E293B
+    FontSize 11
+}
+
+skinparam usecase {
+    BackgroundColor #FFFFFF
+    BorderColor #2563EB
+    BorderThickness 1.3
+    FontSize 11
+}
+
+skinparam rectangle {
+    BackgroundColor #F8FAFC
+    BorderColor #0F172A
+    BorderThickness 1.5
+    FontSize 12
+    FontStyle bold
+}
+
+actor "System Administrator /\nDevOps Operator" as SysAdmin
+actor "SQLite Central\nDatabase" as SQLite << System >>
+
+rectangle "CLI Orchestrator (run.py)" {
+    usecase "UC-CLI-01: Launch Streamlit Web UI\n(run.py --dashboard)" as UC_Dash
+    usecase "UC-CLI-02: Run Full Automated Ingestion\n(run.py --pipeline)" as UC_Pipe
+    usecase "UC-CLI-03: Scan data/raw/ Directory\nfor Scanned PDFs" as UC_Scan
+    usecase "UC-CLI-04: Execute Batch PDF Ingestion\nvia BatchPDFProcessor" as UC_BatchOCR
+    usecase "UC-CLI-05: Train All SARIMA Models\n(run.py --train)" as UC_Train
+    usecase "UC-CLI-06: Bulk Ingest Excel/CSV File\n(run.py --import-excel <file>)" as UC_Import
+    usecase "UC-CLI-07: Execute Pytest Suite\n(run.py --test)" as UC_Test
+    usecase "UC-CLI-08: Display System & DB Status\n(run.py --status)" as UC_Status
+
+    UC_Pipe ..> UC_Scan : <<include>>
+    UC_Pipe ..> UC_BatchOCR : <<include>>
+    UC_Pipe ..> UC_Train : <<include>>
+}
+
+SysAdmin --> UC_Dash
+SysAdmin --> UC_Pipe
+SysAdmin --> UC_Import
+SysAdmin --> UC_Train
+SysAdmin --> UC_Test
+SysAdmin --> UC_Status
+
+UC_BatchOCR --> SQLite
+UC_Train --> SQLite
+UC_Import --> SQLite
+UC_Status --> SQLite
+
+@enduml

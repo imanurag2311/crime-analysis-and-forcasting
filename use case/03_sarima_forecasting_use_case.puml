@@ -1,0 +1,71 @@
+@startuml
+title Mumbai Crime Analysis & Forecasting System\n<b>Subsystem 2: SARIMA Forecasting Engine</b>
+scale max 780x1050
+left to right direction
+
+skinparam shadowing false
+skinparam packageStyle rectangle
+skinparam roundcorner 8
+skinparam defaultFontName Arial
+skinparam defaultFontSize 11
+skinparam ArrowColor #334155
+skinparam ArrowThickness 1.2
+
+skinparam actor {
+    BackgroundColor #E2E8F0
+    BorderColor #1E293B
+    FontSize 11
+}
+
+skinparam usecase {
+    BackgroundColor #FFFFFF
+    BorderColor #2563EB
+    BorderThickness 1.3
+    FontSize 11
+}
+
+skinparam rectangle {
+    BackgroundColor #F8FAFC
+    BorderColor #0F172A
+    BorderThickness 1.5
+    FontSize 12
+    FontStyle bold
+}
+
+actor "ML Engineer /\nForecaster" as Forecaster
+actor "Crime Analyst" as Analyst
+actor "SQLite Central\nDatabase" as SQLite << System >>
+
+rectangle "SARIMA Forecasting Subsystem" {
+    usecase "UC-FC-01: Generate Future Crime Forecast\n(1 to 24 Month Horizon)" as UC_Forecast
+    usecase "UC-FC-02: Select Crime Category\n& Specific Crime Head" as UC_SelectHead
+    usecase "UC-FC-03: Compute Confidence Intervals\n(80% & 95% Bounds)" as UC_CI
+    usecase "UC-FC-04: Retrain All Category Models\n(Grid Search (p,d,q)x(P,D,Q))" as UC_Retrain
+    usecase "UC-FC-05: Evaluate Accuracy Metrics\n(RMSE, MAE, MAPE, R², AIC)" as UC_Metrics
+    usecase "UC-FC-06: Inspect Residual Diagnostics\n(Q-Q, ACF Correlogram, KDE)" as UC_Residuals
+    usecase "UC-FC-07: Persist Model Artifacts\n(.pkl Files to models/)" as UC_SaveArtifacts
+    usecase "UC-FC-08: Log Forecast & Metric History\n(forecast_results, model_metrics)" as UC_DBStore
+    usecase "UC-FC-09: Export Forecast Series\n(Excel / CSV)" as UC_ExportFC
+
+    UC_Forecast ..> UC_SelectHead : <<include>>
+    UC_Forecast ..> UC_CI : <<include>>
+
+    UC_Retrain ..> UC_Metrics : <<include>>
+    UC_Retrain ..> UC_SaveArtifacts : <<include>>
+    UC_Retrain ..> UC_DBStore : <<include>>
+
+    UC_Residuals ..> UC_Metrics : <<extend>>
+    UC_ExportFC ..> UC_Forecast : <<extend>>
+}
+
+Analyst --> UC_Forecast
+Analyst --> UC_ExportFC
+
+Forecaster --> UC_Forecast
+Forecaster --> UC_Retrain
+Forecaster --> UC_Metrics
+Forecaster --> UC_Residuals
+
+UC_DBStore --> SQLite
+
+@enduml

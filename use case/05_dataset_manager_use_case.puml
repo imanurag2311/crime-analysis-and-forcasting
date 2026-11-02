@@ -1,0 +1,68 @@
+@startuml
+title Mumbai Crime Analysis & Forecasting System\n<b>Subsystem 4: Monthly Dataset Management & Versioning</b>
+scale max 780x1050
+left to right direction
+
+skinparam shadowing false
+skinparam packageStyle rectangle
+skinparam roundcorner 8
+skinparam defaultFontName Arial
+skinparam defaultFontSize 11
+skinparam ArrowColor #334155
+skinparam ArrowThickness 1.2
+
+skinparam actor {
+    BackgroundColor #E2E8F0
+    BorderColor #1E293B
+    FontSize 11
+}
+
+skinparam usecase {
+    BackgroundColor #FFFFFF
+    BorderColor #2563EB
+    BorderThickness 1.3
+    FontSize 11
+}
+
+skinparam rectangle {
+    BackgroundColor #F8FAFC
+    BorderColor #0F172A
+    BorderThickness 1.5
+    FontSize 12
+    FontStyle bold
+}
+
+actor "Data Administrator" as Admin
+actor "SQLite Central\nDatabase" as SQLite << System >>
+
+rectangle "Monthly Dataset Management Subsystem" {
+    usecase "UC-DM-01: Upload Monthly Crime Dataset\n(Excel .xlsx/.xls or CSV)" as UC_Upload
+    usecase "UC-DM-02: Validate Schema Against\nPrimary Column Definitions" as UC_Schema
+    usecase "UC-DM-03: Check Data Ranges & Types\n(Month 1-12, Case Count >= 0)" as UC_Range
+    usecase "UC-DM-04: Detect Duplicates & Resolve\nConflict via Merge/Overwrite" as UC_Dedupe
+    usecase "UC-DM-05: Commit Validated Records\ninto crime_records Table" as UC_Commit
+    usecase "UC-DM-06: Increment System Dataset\nVersion Number (dataset_versions)" as UC_Version
+    usecase "UC-DM-07: Log Activity in Audit Trail\n(processing_logs Table)" as UC_Audit
+    usecase "UC-DM-08: Revert Database State\nto Previous Version Number" as UC_Rollback
+    usecase "UC-DM-09: Export Consolidated Master\nDatabase (Excel / CSV)" as UC_ExportMaster
+
+    UC_Upload ..> UC_Schema : <<include>>
+    UC_Schema ..> UC_Range : <<include>>
+    UC_Commit ..> UC_Dedupe : <<include>>
+    UC_Commit ..> UC_Version : <<include>>
+    UC_Commit ..> UC_Audit : <<include>>
+    UC_Commit ..> UC_Upload : <<extend>>
+
+    UC_Rollback ..> UC_Audit : <<include>>
+}
+
+Admin --> UC_Upload
+Admin --> UC_Commit
+Admin --> UC_Rollback
+Admin --> UC_ExportMaster
+
+UC_Commit --> SQLite
+UC_Rollback --> SQLite
+UC_ExportMaster --> SQLite
+
+@enduml

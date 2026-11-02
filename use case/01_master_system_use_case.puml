@@ -1,0 +1,136 @@
+@startuml
+title Mumbai Crime Analysis & Forecasting System\n<b>Comprehensive System Use Case Diagram</b>
+scale max 780x1100
+left to right direction
+
+skinparam shadowing false
+skinparam packageStyle rectangle
+skinparam roundcorner 8
+skinparam defaultFontName Arial
+skinparam defaultFontSize 11
+skinparam ArrowColor #334155
+skinparam ArrowThickness 1.2
+
+skinparam actor {
+    BackgroundColor #E2E8F0
+    BorderColor #1E293B
+    FontSize 11
+}
+
+skinparam usecase {
+    BackgroundColor #FFFFFF
+    BorderColor #2563EB
+    BorderThickness 1.3
+    FontSize 11
+}
+
+skinparam rectangle {
+    BackgroundColor #F8FAFC
+    BorderColor #0F172A
+    BorderThickness 1.5
+    FontSize 12
+    FontStyle bold
+}
+
+' Actors
+actor "Crime Analyst /\nInvestigator" as Analyst
+actor "ML Engineer /\nForecaster" as MLEngineer
+actor "Data Administrator" as Admin
+actor "OCR Reviewer" as OCRUser
+actor "Legal Officer /\nResearcher" as Legal
+
+actor "CLI Automated\nPipeline" as CLI << System >>
+actor "SQLite Central\nDatabase" as SQLite << System >>
+
+' System Boundary
+rectangle "Mumbai Crime Analysis & Forecasting System" {
+
+    package "1. Crime Analytics & Trends (EDA)" {
+        usecase "UC-01: Analyze Crime Trends\n& Monthly Seasonality" as UC1
+        usecase "UC-02: Filter by Year, Category\n& Police Division" as UC2
+        usecase "UC-03: Assess Registration vs\nDetection Rates" as UC3
+        usecase "UC-04: Export Analytical Charts\n& Filtered Data" as UC4
+    }
+
+    package "2. SARIMA Forecasting Engine" {
+        usecase "UC-05: Generate Crime Forecast\n(1-24 Month Horizon)" as UC5
+        usecase "UC-06: Inspect 80% & 95%\nConfidence Intervals" as UC6
+        usecase "UC-07: Retrain Time-Series\nSARIMA Models" as UC7
+        usecase "UC-08: Evaluate Error Metrics\n(RMSE, MAE, MAPE, AIC)" as UC8
+    }
+
+    package "3. IPC ↔ BNS Legal Crosswalk" {
+        usecase "UC-09: Search IPC & BNS\nSections / Offences" as UC9
+        usecase "UC-10: Compare Penalties &\nLegal Structural Changes" as UC10
+    }
+
+    package "4. Monthly Dataset & Versioning" {
+        usecase "UC-11: Import Monthly Dataset\n(Excel / CSV)" as UC11
+        usecase "UC-12: Validate Schema,\nData Types & Ranges" as UC12
+        usecase "UC-13: Manage Dataset Versions\n& Execute Rollback" as UC13
+    }
+
+    package "5. Document Computer Vision & OCR" {
+        usecase "UC-14: Upload Scanned FIR /\nCrime Report PDFs" as UC14
+        usecase "UC-15: Execute PyMuPDF + CLAHE\n+ EasyOCR Table Extraction" as UC15
+        usecase "UC-16: Review & Edit Flagged\nLow-Confidence Records" as UC16
+        usecase "UC-17: Commit Verified Data\nto Database" as UC17
+    }
+
+    package "6. CLI Orchestration" {
+        usecase "UC-18: Run Automated Batch\nPipeline (--pipeline)" as UC18
+        usecase "UC-19: Execute Test Suite &\nHealth Check (--test, --status)" as UC19
+    }
+}
+
+' Relationships
+UC1 ..> UC2 : <<include>>
+UC3 ..> UC2 : <<include>>
+UC4 ..> UC1 : <<extend>>
+
+UC5 ..> UC6 : <<include>>
+UC7 ..> UC8 : <<include>>
+UC5 ..> UC7 : <<extend>>
+
+UC10 ..> UC9 : <<include>>
+
+UC11 ..> UC12 : <<include>>
+UC13 ..> UC11 : <<extend>>
+
+UC15 ..> UC14 : <<include>>
+UC16 ..> UC15 : <<extend>>
+UC17 ..> UC16 : <<include>>
+
+UC18 ..> UC15 : <<include>>
+UC18 ..> UC7 : <<include>>
+
+' Actor Links
+Analyst --> UC1
+Analyst --> UC3
+Analyst --> UC4
+Analyst --> UC5
+
+MLEngineer --> UC5
+MLEngineer --> UC7
+MLEngineer --> UC8
+
+Legal --> UC9
+Legal --> UC10
+
+Admin --> UC11
+Admin --> UC13
+Admin --> UC4
+
+OCRUser --> UC14
+OCRUser --> UC16
+OCRUser --> UC17
+
+CLI --> UC18
+CLI --> UC19
+
+UC17 --> SQLite
+UC11 --> SQLite
+UC7 --> SQLite
+UC1 --> SQLite
+
+@enduml

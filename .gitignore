@@ -1,0 +1,74 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+*.whl
+
+# Virtual Environment
+venv/
+env/
+.env/
+.venv/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.project
+.classpath
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Database
+database/*.db
+database/*.db-journal
+
+# Models (large binary files)
+models/sarima/*.pkl
+
+# Outputs
+outputs/logs/*.log
+outputs/forecasts/*.csv
+outputs/metrics/*.json
+outputs/ocr/*
+
+# Data uploads
+data/uploads/*
+data/processed/*
+
+# Keep directory structure
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+!data/uploads/.gitkeep
+!database/.gitkeep
+!models/sarima/.gitkeep
+!outputs/logs/.gitkeep
+!outputs/forecasts/.gitkeep
+!outputs/metrics/.gitkeep
+!outputs/ocr/.gitkeep
+
+# Jupyter
+.ipynb_checkpoints/
+
+# pytest
+.pytest_cache/
+htmlcov/
+.coverage
+
+# Streamlit
+.streamlit/
+
+# Temporary
+*.tmp
+*.bak
+*.orig

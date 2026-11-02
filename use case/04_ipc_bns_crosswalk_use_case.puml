@@ -1,0 +1,60 @@
+@startuml
+title Mumbai Crime Analysis & Forecasting System\n<b>Subsystem 3: IPC ↔ BNS Legal Crosswalk</b>
+scale max 780x1050
+left to right direction
+
+skinparam shadowing false
+skinparam packageStyle rectangle
+skinparam roundcorner 8
+skinparam defaultFontName Arial
+skinparam defaultFontSize 11
+skinparam ArrowColor #334155
+skinparam ArrowThickness 1.2
+
+skinparam actor {
+    BackgroundColor #E2E8F0
+    BorderColor #1E293B
+    FontSize 11
+}
+
+skinparam usecase {
+    BackgroundColor #FFFFFF
+    BorderColor #2563EB
+    BorderThickness 1.3
+    FontSize 11
+}
+
+skinparam rectangle {
+    BackgroundColor #F8FAFC
+    BorderColor #0F172A
+    BorderThickness 1.5
+    FontSize 12
+    FontStyle bold
+}
+
+actor "Legal Officer /\nPublic Researcher" as Legal
+actor "Crime Analyst" as Analyst
+
+rectangle "IPC ↔ BNS Crosswalk Subsystem" {
+    usecase "UC-CW-01: Search by Legal Section Number\n(IPC 1860 or BNS 2023)" as UC_SearchSec
+    usecase "UC-CW-02: Search by Offence Name\nor Key Legal Term" as UC_SearchOff
+    usecase "UC-CW-03: View Side-by-Side Legal\nConcordance & Translations" as UC_View
+    usecase "UC-CW-04: Inspect Changes in Punishment\n& Substantive Offence Shifts" as UC_Penalty
+    usecase "UC-CW-05: Filter Sections by\nCrime Category & Domain" as UC_FilterGroup
+    usecase "UC-CW-06: Export Master Concordance\nReference Table (CSV)" as UC_Export
+
+    UC_View ..> UC_SearchSec : <<include>>
+    UC_View ..> UC_SearchOff : <<include>>
+    UC_Penalty ..> UC_View : <<extend>>
+    UC_FilterGroup ..> UC_View : <<extend>>
+}
+
+Legal --> UC_View
+Legal --> UC_Penalty
+Legal --> UC_FilterGroup
+Legal --> UC_Export
+
+Analyst --> UC_View
+Analyst --> UC_FilterGroup
+
+@enduml
